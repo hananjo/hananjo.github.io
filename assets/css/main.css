@@ -126,12 +126,36 @@ input, select, textarea {
 	gap: 40px;
 	justify-content: center;
 	margin-left: 150px;
+	margin-top: 20px;
 }
 
+.projects-title {
+	display: flex;
+	justify-content: center;
+}
+
+.button.smalllive {
+	font-size: 0.6rem;
+	height: 3.325em;
+	line-height: 3.325em;
+	border-radius: 3.325em;
+	padding: 0 2em;
+	margin-left: 10px;
+}
 /* Languages  */
 
 .languages-logo{
 	width: 100px;
+}
+
+/* Button redirects */
+/* .button-directs {
+	display: flex;
+	gap: 10px;
+} */
+/* GET IN TOUCH */
+.get-in-touch {
+	margin-bottom: -50px;
 }
 /* Basic */
 
