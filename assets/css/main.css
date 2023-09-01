@@ -118,6 +118,22 @@ input, select, textarea {
 	height: 125px
 }
 
+/* Picture and name title */
+.picture-and-name {
+	display: flex;
+	align-items: end;
+	/* align-items: center; */
+	gap: 120px;
+	margin-bottom: 30px;
+}
+.my-name {
+	text-align: center;
+}
+.profile-image {
+	text-align: center;
+	
+/* margin-left: 200px; */
+}
 /* Projects */
 
 .projects {
